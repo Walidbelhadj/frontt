@@ -6,5 +6,5 @@
     password: walid55955059
     
 - name: Push the Docker image into the repo
-  shell: docker push walidbelhadj/cd_front:latest
+  shell: docker push walidbelhadj/devops:tagname
       
