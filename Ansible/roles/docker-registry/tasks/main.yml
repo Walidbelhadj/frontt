@@ -7,4 +7,4 @@
     
 - name: Push the Docker image into the repo
   shell: docker push walidbelhadj/cd_front:latest
-  when: docker_push    
+      
