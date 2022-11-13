@@ -4,7 +4,7 @@
   docker_image:
     name: walidbelhadj/devops
     build:
-      path: /var/lib/jenkins/workspace/cdlab
+      path: /var/lib/jenkins/workspace/validation
       pull: no
     source: build
     state: present
